@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:22:23.539Z",
+  "generated_at": "2026-10-06T05:16:02.994Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -35,6 +35,19 @@
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-05T07:22:17.664Z",
       "last_pushed_at": "2026-10-05T07:22:17.664Z"
+    },
+    "problem:1462": {
+      "kind": "problem",
+      "id": "1462",
+      "title": "Power Users With Purchases in Every Month of the Year",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1462",
+      "path": "problems/1462-power-users-with-purchases-in-every-month-of-the-year",
+      "first_solved_at": "2026-10-06T05:15:56.595Z",
+      "last_pushed_at": "2026-10-06T05:15:56.595Z",
+      "language": "sql",
+      "lines": 13
     }
   }
 }
