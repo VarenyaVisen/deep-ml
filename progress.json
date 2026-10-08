@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:26:47.995Z",
+  "generated_at": "2026-10-08T16:08:53.340Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -72,6 +72,19 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-08T09:26:40.882Z",
       "last_pushed_at": "2026-10-08T09:26:40.882Z"
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-08T16:08:51.892Z",
+      "last_pushed_at": "2026-10-08T16:08:51.892Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
